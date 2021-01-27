@@ -6,7 +6,10 @@ This repo is owned and maintained by [jluu38](https://github.com/jluu38).
 ### Logo from [DrawKit](https://www.drawkit.io/license):
 - [Ecology and Nature Icons](https://www.drawkit.io/product/ecology-nature-free-icons")
 
-### The following were sourced from [Unsplash](https://unsplash.com/license):
+### Text and Information from [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License):
+- [Greenwashing](https://en.wikipedia.org/wiki/Greenwashing) (with the article's citations linked to the respective works)
+
+### Images from [Unsplash](https://unsplash.com/license):
 - [Photo](https://unsplash.com/photos/OasCSOQ5leE) by Laura Chouette
 
 - [Photo](https://unsplash.com/photos/OuOmA4_Sncc) by Jon Tyson
